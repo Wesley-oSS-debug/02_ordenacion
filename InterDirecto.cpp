@@ -97,11 +97,7 @@ void interDerecha (int array[],int tam){
 			}
 		}
 	}
-	
-
-	
-	
-	
+		
 }
 
 
